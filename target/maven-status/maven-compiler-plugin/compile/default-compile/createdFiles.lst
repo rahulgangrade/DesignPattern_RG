@@ -1,0 +1,7 @@
+com\DesignPattern_RG\PageComponents\MultiTrip.class
+com\DesignPattern_RG\AbstractComponents\StrategyFactor.class
+com\DesignPattern_RG\PageComponents\SearchFlightAvail.class
+com\DesignPattern_RG\PageComponents\FooterPage.class
+com\DesignPattern_RG\AbstractComponents\AbstractComponent.class
+com\DesignPattern_RG\PageComponents\HeaderPage.class
+com\DesignPattern_RG\PageComponents\TravelHomePage.class
